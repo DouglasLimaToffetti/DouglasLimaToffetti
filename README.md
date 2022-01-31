@@ -1,9 +1,9 @@
 ## Olá! eu sou o Douglas Toffetti, programador e desenvolvedor front-end!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/DouglasLimaToffetti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasLimaToffetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLimaToffetti&layout=compact&langs_count=7&theme=dark"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasLimaToffetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLimaToffetti&layout=compact&langs_count=7&theme=radical"/>  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
