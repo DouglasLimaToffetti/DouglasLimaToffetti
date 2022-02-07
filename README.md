@@ -11,7 +11,7 @@
   <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Doug-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/707302006766698567/937745697384562848/2.png?width=676&height=676">
+  <img align="right" alt="Doug-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880580628574265375/940253362190954547/eu.png?width=676&height=676">
 </div>
   
 ##
