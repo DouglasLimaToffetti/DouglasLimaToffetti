@@ -1,4 +1,4 @@
-## Olá! eu sou o Douglas Toffetti, programador e desenvolvedor front-end!
+## Olá! eu sou o Douglas Toffetti, técnico de informática e desenvolvedor!
 
 <div align="center">
   <a href="https://github.com/DouglasLimaToffetti">
