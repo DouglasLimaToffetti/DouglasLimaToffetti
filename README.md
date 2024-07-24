@@ -1,6 +1,6 @@
 ## Olá! eu sou o Douglas Toffetti, técnico de informática e desenvolvedor!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/DouglasLimaToffetti">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DouglasLimaToffetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLimaToffetti&layout=compact&langs_count=7&theme=radical"/>  
@@ -11,7 +11,6 @@
   <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Doug-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Doug-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880580628574265375/940253362190954547/eu.png?width=676&height=676">
 </div>
   
 ##
