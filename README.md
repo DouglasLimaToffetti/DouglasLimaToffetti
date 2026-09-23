@@ -56,6 +56,7 @@ Também estou constantemente revisando e aprofundando meus conhecimentos em C#, 
 
 No momento estou focado em fortalecer minha base em **C# e .NET**, revisando conceitos fundamentais e avançando gradualmente para aplicações mais completas.
 
+---
 
 ## 💼 Experiência
 
@@ -66,13 +67,6 @@ Essa experiência me ajudou a desenvolver uma visão mais ampla sobre tecnologia
 Posteriormente, passei a atuar diretamente com desenvolvimento, trabalhando principalmente com **C#, .NET e SQL Server**, participando da manutenção, evolução e correção de sistemas.
 
 Essa combinação entre **suporte + desenvolvimento** me permite olhar para um problema não apenas pelo código, mas também pelo impacto que ele causa para o usuário e para o negócio.
-
-
-## 📊 GitHub Stats
-
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasLimaToffetti\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLimaToffetti\&layout=compact\&theme=tokyonight)
 
 ---
 
